@@ -7,9 +7,7 @@
   <p>Expertise in modern web technologies and high-performance backend systems.</p>
 </div>
 
----
-
-### 🛠️ Tech Stack & Tools
+<br/>
 
 <div align="center">
   <a href="https://github.com/estalynD">
@@ -23,18 +21,7 @@
   </a>
 </div>
 
----
-
-### 🧠 Core Principles
-
-- **Scalability:** Designing systems that grow with the user base.
-- **Clean Code:** Writing maintainable, readable, and testable software.
-- **Product Oriented:** Understanding the "why" behind every feature to deliver real value.
-- **Performance:** Optimizing every layer of the stack for speed and efficiency.
-
----
-
-### 📊 GitHub Statistics
+<br/>
 
 <div align="center">
   <a href="https://github.com/estalynD">
@@ -50,7 +37,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario">
+  <a href="https://www.linkedin.com/in/estalyn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-10B981?style=for-the-badge" />
